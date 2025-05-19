@@ -1,5 +1,5 @@
 # 💫 About Me:
-làm cho tôi kiểu là tôi là nguyên<br> và tôi thông thạo n<br>extjs nodejs reactjs resfullapi
+chào tôi là nguyên
 
 
 # 💻 Tech Stack:
